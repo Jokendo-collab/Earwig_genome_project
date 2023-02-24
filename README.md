@@ -1,4 +1,4 @@
-# zebrafish genome assembly project
+# Zebrafish genome assembly project
 
 This repository contains all the scripts used to assemble and annotate the zebrafish genome.
 The pipeline is presented in three parts:
