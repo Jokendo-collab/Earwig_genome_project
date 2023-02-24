@@ -1,5 +1,6 @@
-# Earwig_genome_project
-This repository contains all the scripts used to assemble and annotate the Earwig genome.
+# zebrafish genome assembly project
+
+This repository contains all the scripts used to assemble and annotate the zebrafish genome.
 The pipeline is presented in three parts:
 
 1. Genome assembly
